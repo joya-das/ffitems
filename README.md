@@ -7,17 +7,13 @@
 ## Table of Contents
 <b>1. [Project Structure](#project-structure)<br>
 2. [Project Index](#project-index)<br>
-3. [Contributing](#contributing)<br>
-4. [License](#license)
+3. [License](#license)
 </b>
 
 ## Project Structure
 
 ```sh
 └── FFItems
-       ├── .github
-       │     └── ISSUE_TEMPLATE
-       │            └── bug_report.md
        ├── CNAME
        ├── CONTRIBUTING.md
        ├── LICENSE
@@ -81,9 +77,6 @@
   </details>
 </details>
 
-## Contributing
-- **[Report Issues](https://github.com/starexxx/FFItems/issues)**: Submit bugs or feature requests for the `FFItems` project.
-- **[Submit Pull Requests](https://github.com/starexxx/FFItems/blob/main/CONTRIBUTING.md)**: Review open PRs and submit your own.
 
 <details closed>
 <summary><b>Contributing Guidelines</b></summary>
