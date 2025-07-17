@@ -13,7 +13,7 @@
 ## Project Structure
 
 ```sh
-└── FFItems
+└── ffitems
        ├── CNAME
        ├── CONTRIBUTING.md
        ├── LICENSE
@@ -37,22 +37,22 @@
     <blockquote>
       <table>
         <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/README.md">README.md</a></b></td></tr>
-        <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/LICENSE">LICENSE</a></b></td></tr>
-        <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/CNAME">CNAME</a></b></td></tr>
-        <tr><td><b><a href="https://github.com/starexxx/FFItems/tree/main/assets/">assets/</a></b></td></tr>
-        <tr><td><b><a href="https://github.com/starexxx/FFItems/tree/main/.github/">.github/</a></b></td></tr>
-        <tr><td><b><a href="https://github.com/starexxx/FFItems/tree/main/src/">src/</a></b></td></tr>
-        <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/index.html">index.html</a></b></td></tr>
+        <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/LICENSE">LICENSE</a></b></td></tr>
+        <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/CNAME">CNAME</a></b></td></tr>
+        <tr><td><b><a href="https://github.com/joya-das/ffitems/tree/main/assets/">assets/</a></b></td></tr>
+        <tr><td><b><a href="https://github.com/joya-das/ffitems/tree/main/.github/">.github/</a></b></td></tr>
+        <tr><td><b><a href="https://github.com/joya-das/ffitems/tree/main/src/">src/</a></b></td></tr>
+        <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/index.html">index.html</a></b></td></tr>
       </table>
     </blockquote>
     <details>
       <summary>assets</summary>
       <blockquote>
         <table>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/assets/error-404.png">error-404.png</a></b></td></tr>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/assets/og.png">og.png</a></b></td></tr>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/assets/app.json">app.json</a></b></td></tr>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/assets/header.png">header.png</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/assets/error-404.png">error-404.png</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/assets/og.png">og.png</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/assets/app.json">app.json</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/assets/header.png">header.png</a></b></td></tr>
         </table>
       </blockquote>
     </details>
@@ -60,8 +60,8 @@
       <summary>src</summary>
       <blockquote>
         <table>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/src/styles.css">styles.css</a></b></td></tr>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/src/script.js">script.js</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/src/styles.css">styles.css</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/src/script.js">script.js</a></b></td></tr>
         </table>
       </blockquote>
     </details>
@@ -69,8 +69,8 @@
       <summary>.github</summary>
       <blockquote>
         <table>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/tree/main/.github/ISSUE_TEMPLATE/">ISSUE_TEMPLATE/</a></b></td></tr>
-          <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/.github/ISSUE_TEMPLATE/bug_report.md">bug_report.md</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/tree/main/.github/ISSUE_TEMPLATE/">ISSUE_TEMPLATE/</a></b></td></tr>
+          <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/.github/ISSUE_TEMPLATE/bug_report.md">bug_report.md</a></b></td></tr>
         </table>
       </blockquote>
     </details>
@@ -84,7 +84,7 @@
 1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/starexxx/FFItems
+   git clone https://github.com/joya-das/ffitems
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
