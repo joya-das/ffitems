@@ -36,7 +36,7 @@
     <summary>main</summary>
     <blockquote>
       <table>
-        <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/README.md">README.md</a></b></td></tr>
+        <tr><td><b><a href="https://github.com/joya-das/ffitems/blob/main/README.md">README.md</a></b></td></tr>
         <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/LICENSE">LICENSE</a></b></td></tr>
         <tr><td><b><a href="https://github.com/starexxx/FFItems/blob/main/CNAME">CNAME</a></b></td></tr>
         <tr><td><b><a href="https://github.com/starexxx/FFItems/tree/main/assets/">assets/</a></b></td></tr>
